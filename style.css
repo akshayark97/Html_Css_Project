@@ -1,0 +1,19 @@
+p {
+	color: blue;
+	background-color: red;
+	width: 1920 * 1080px;
+	height: 3000px;
+
+}
+section {
+	color: yellow;
+	background-color: green;
+}
+
+button {
+	color: black;
+	width:100px;
+	height: 50px;
+
+}
+

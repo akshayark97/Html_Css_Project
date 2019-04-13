@@ -1,0 +1,57 @@
+body {
+     background-color: #ffff99;
+}
+ 
+h1 {
+      font-size: 4rem;
+      margin-left: 2rem;
+      border-style: solid;
+      border-color: #ff6600;
+      margin-right : 2rem;
+      font-weight: bold;
+      border-width: 0.3rem;
+      color: #ff6600;
+      font-style: bold;
+      font-family: impact;
+      
+
+}
+ 
+ 
+h2 {
+    letter-spacing: 0.4rem;
+	background: #ff6600;
+	height: 5rem;
+    color: #ffff99;
+	line-height: 5rem;
+	font-size: 2rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
+ 
+}
+ 
+ol {
+	background-color: #ffcc00;
+	height: 15rem;
+	font-weight: bold;
+	margin-left: 2rem;
+	margin-right: 2rem;
+ 
+}
+ 
+li {
+      height: 3rem;
+      color: #ffff99;
+      font-size: 1.2rem;
+ 
+}
+ 
+p {
+	font-size: 1.2rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	border-style: dotted;
+	border-color: orange;
+
+ 
+}
